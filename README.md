@@ -3,7 +3,7 @@
 Machine Learning models for detecting distracted drivers from images. 
 
 ### Dataset
-- https://www.kaggle.com/c/state-farm-distracted-driver-detection/data
+https://www.kaggle.com/c/state-farm-distracted-driver-detection/data
 
 ### Usage
 
