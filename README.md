@@ -30,5 +30,5 @@ python3 Distracted_driver_cnn.py
 #### Running VGG
 
 ```
-python3 vgg.py
+python3 Distracted_driver_vgg.py
 ```
